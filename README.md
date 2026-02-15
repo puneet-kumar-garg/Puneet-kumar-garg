@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Improving my Data Structures & Algorithms problem-solving skills<br>Building projects using C++, Python, and JavaScript<br>Practicing Automation Testing with Selenium<br>Strengthening database concepts with MySQL<br>🤝 I’m looking to collaborate on<br>Beginner to intermediate level web development projects<br>Open-source projects involving C++, Python, or JavaScript<br>Automation testing projects using Selenium<br>🆘 I’m looking for help with<br>Writing optimized and clean production-level code<br>Advanced DSA patterns and competitive programming<br>Backend development and database optimization<br>🌱 I’m currently learning<br>Advanced problem-solving in DSA<br>Better Git & GitHub workflows<br>Writing scalable and structured code<br>Real-world application of OOP concepts<br>💬 Ask me about<br>DSA fundamentals<br>OOP concepts<br>Selenium automation basics<br>Getting started with Git & GitHub<br>⚡ Fun fact<br>I enjoy breaking complex problems into logical steps.<br>Cycling helps me reset and think clearly.<br>I’m always experimenting with small side projects to improve.<br>I approach challenges with a calm, analytical mindset.
+🔭 Currently Working On
+Improving my problem-solving skills in Data Structures & Algorithms, building small projects using C++, Python, and JavaScript, and practicing automation testing with Selenium while strengthening MySQL database concepts.
+🤝 Looking to Collaborate On
+Beginner to intermediate web development projects, open-source contributions in C++/Python/JavaScript, and automation testing projects using Selenium.
+🌱 Currently Learning
+Advanced DSA patterns, better Git & GitHub workflows, practical OOP implementation, and writing cleaner, more structured code.
+💬 Ask Me About
+DSA fundamentals, OOP concepts, Selenium basics, Git & GitHub usage, and MySQL queries.
+⚡ Fun Fact
+I enjoy solving logical problems, cycling to clear my mind, and continuously building small projects to sharpen my skills.
 
 
 ## 🌐 Socials:
